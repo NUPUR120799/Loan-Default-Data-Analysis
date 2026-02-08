@@ -7,7 +7,6 @@ It is divided into three key dashboard views, each focusing on different analyti
 
 <img width="1920" height="1080" alt="Screenshot (355)" src="https://github.com/user-attachments/assets/09713cc6-ce31-48c5-b25c-8d72d4e2c46f" />
 
-
 Key KPIs & Visuals:
 
 🔹Loan Amount by Purpose: Shows total loan amounts across Home, Business, Education, Auto, and Other categories — highlighting lending priorities.
@@ -28,6 +27,8 @@ Insight:
 
 2️⃣ Application Demographics & Financial Profile : To understand how borrower demographics and financial profiles impact loan distribution and risk.
 
+<img width="1920" height="1080" alt="Screenshot (356)" src="https://github.com/user-attachments/assets/ca9f765c-edc6-40cc-ac55-79a6d81c3e19" />
+
 Key KPIs & Visuals:
 
 🔹Median Loan Amount by Credit Score Category: Highlights how creditworthiness affects loan disbursal.
@@ -47,6 +48,8 @@ Insight:
 🔹Education level and dependency also affect borrowing capacity and credit risk.
 
 3️⃣ Financial Risk Metrics : To assess loan performance, year-over-year changes, and risk segmentation.
+
+<img width="1920" height="1080" alt="Screenshot (357)" src="https://github.com/user-attachments/assets/3d386c87-7875-40ae-ad17-48a41291b1c6" />
 
 Key KPIs & Visuals:
 
